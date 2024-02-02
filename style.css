@@ -1,3 +1,11 @@
 body {
   background-color: rgb(189, 189, 253);
+  font-family: sans-serif, Verdana;
+  color: white;
+  font-size: 35px;
+  text-align: center;
+}
+
+#list {
+  text-align: left;
 }
